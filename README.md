@@ -13,6 +13,14 @@ Other Electronics installed are for indication purposes..
 
 Data communication is done over wifi, the ESP32 act as server.
 
+# WORKING
+> Power ISAT-8266
+> When powered the will be one beep sound and green-red leds will start blinking. This indiactes the hardware is powered and all the sensor connections are successsfull.
+> If indication are not as above, then do check the sensor connection properly.
+> Next Connect with WIFI **ISAT_8266** from your system and open the software/GUI in the system
+> It will automatically connect and start visualizing data.
+> if not check the sensor connection and follow the indication.
+
 Repository contains the first version of the I-SAT satellite wrapping the software and hardware details.
 This prototype contains the basic detail about data commmunication and data visualization - integration of hardware and software.
 
